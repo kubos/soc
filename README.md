@@ -1,6 +1,6 @@
 # Google Summer of Code ideas page for KubOS
 
-Kubos is applying to participate in [Google Summer of Code] 2019 with
+Kubos is applying to participate in [Google Summer of Code](https://summerofcode.withgoogle.com/) 2019 with
 our [KubOS](https://github.com/kubos/kubos) flight software. This page
 lists project ideas for KubOS.
 
